@@ -1,0 +1,28 @@
+{
+  "name": "codemirror-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "codemirror": "^5.13.2",
+    "ksana-codemirror": "^5.6.1",
+    "ksana2015-webruntime": "^1.5.2",
+    "react": "*",
+    "react-addons-pure-render-mixin": "*",
+    "react-dom": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsuanchen/codemirror-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samsuanchen/codemirror-playground/issues"
+  },
+  "homepage": "https://github.com/samsuanchen/codemirror-playground#readme"
+}
