@@ -1,6 +1,6 @@
 jsonp_handler({
  "version": "1",
- "build": 13,
+ "build": 35,
  "title": "codemirror-playground",
  "minruntime": 1,
  "baseurl": "http://rawgit.com/samsuanchen/codemirror-playground/master/",
@@ -15,8 +15,7 @@ jsonp_handler({
    "ksana-database",
    "ksana-search",
    "ksana-simple-api",
-   "react-dom",
-   "ksana-codemirror"
+   "react-dom"
   ]
  },
  "files": [
@@ -28,20 +27,20 @@ jsonp_handler({
   "ksana.js"
  ],
  "filesizes": [
-  639,
+  706,
   82,
   1099804,
   119462,
-  18367,
-  848
+  480974,
+  826
  ],
  "filedates": [
-  "2016-03-24T05:12:04.000Z",
+  "2016-03-24T05:31:55.000Z",
   "2016-03-24T05:06:32.000Z",
   "2016-03-24T05:14:23.000Z",
   "2016-03-24T05:06:32.000Z",
-  "2016-03-24T05:20:47.000Z",
-  "2016-03-24T05:20:04.000Z"
+  "2016-03-24T05:42:28.000Z",
+  "2016-03-24T05:42:19.000Z"
  ],
- "date": "2016-03-24T05:20:48.200Z"
+ "date": "2016-03-24T05:42:29.936Z"
 })
